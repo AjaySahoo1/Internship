@@ -1,0 +1,20 @@
+Customermaster (all HCPs), sales data (picking best HCP), Alignment, Business rules
+
+Session With Jaya-
+1. Goal report
+2. Scorecard
+3. Performance Report- Managers
+
+Field Users-
+
+4. IC Plans report (based on different product- IC plans are made- how my plan is working under field force)
+5. Align with Budget
+
+Goals are set- Quota attainment (attainment), calls visit
+Eligibility- based on rules
+
+Input Validation Report- Alignment report (Zip- terr), Roster Alignment, How many new hire or retire
+Output Validation Report-
+Eligibility Report-
+
+Base period- Target will be based on those

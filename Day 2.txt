@@ -1,0 +1,69 @@
+Pharma 101
+Pharma Company- Medicine Productions---- Provider and Pharmacy
+Global Prescription Drug sales (Projected $1.4 Trillion in 2026)
+7.4% CAGR 2020-2026
+USA being top at the health care spending (% of GDP)
+Top-10 Pharma Company- Pfizer, Abbvie, Janssen, Merk, Sanoli, AstraZeneca
+Oncology- largest therap area 20%
+Immunology being 2nd
+254 M&A deals in 2023 (Volatile Industry)
+Highly regulated
+Regulatory Industries across countries
+Stakeholders-
+1. Patients 2. Pharma Manufacturers, 3. Healthcare Providers 4. Payers (Insurance Providers- both public and private) 5. Pharmacy Benefits Managers 6. Employers 6. Government (As i. regulator, ii. payer, iii. sponsor of 
+Segments of Pharma manufacturer- 
+1. R&D ( Chemicals to be used and test products through to regulatory approval)
+2. Manufg and Distribution 
+3. Marketing& Sales
+Types of Pharma Products:
+1. OTC medicines
+2. Prescriptions
+3. Vaccines
+4. Medical Devices
+Branded (7-12 yrs-loss of exclusivity) vs Generic Medicine
+Adherence (Patient's compliance with their prescription regime; % of doses taken as prescribed)
+Persistence ( the no. of days between a patient's first dose and the day they stop taking the drug) (persistency decay curve) (duration of therapy)
+
+Orphan Products:
+Rare disease (<1 in 200,000(
+US Orphan Drug Act of 1983: provides incentives to pharma companies to develop medicines to such diseases and conditions, including tax credits)
+those medicines are called orphan products
+
+Pharma vs Bio Pharma
+Biologics are fastest growing pharma category
+
+Formularies and Copayment Tiers
+Tier-1 (Generic Products)
+Tier-2 (Preferred branded branded products)
+Tier-3 (Non preferred branded products)
+Tier-4 (Speciality and biosimilar products)
+
+Tier determines the terms and conditions under which the payer will cover the cost of the product-
+dosage and frequency
+?
+?
+
+How Pharma make profit?
+-find new products
+-get products to market as fast as possible, at the minimal practical cost
+-maximize revenue from every product
+-Explore new indications for existing products
+
+Lynparza
+
+25K Petabytes data in healthcare realm
+80% of patients data is unstructured (physicians dictated notes after consultation with the patients)
+Data Sources:
+Prescription Data, Medical Claims Data, Electronic Medical Data
+
+Digital journey of Patient:
+1. Awareness
+2. Diagnosis
+3. Treatment Decision
+4. Payment
+5. Fulfillment (to receive medication and prescription)
+6. Maintenance
+
+Prescribers, Writers, repeat writers, adopters
+
+Detailing: 

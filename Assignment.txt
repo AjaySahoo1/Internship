@@ -1,0 +1,28 @@
+Power BI
+1. React Framework (from 3rd person, user journey, what could be improved, who is the user - commercial excellence team, opportunity in reporting, issue in power BI (brought down 12 seconds to 2 seconds))
+
+2. call plan generation- doctors should be targeting and product line- tool, views on that product- r&d and CE team
+
+3. Utilities in python for day to day operations- e.g onboarding single team 7-10 teams, step-3 prerequisite before step 4,
+bulkified process and reduction of time 60%
+
+SPOC
+
+1. Sharing Function
+2. Revised Goal
+
+Why React:
+1. Simple Syntax
+2. Component Based Architecture
+3. Flexibility
+4. Virtual Dynamic and Interactive web pages for performance optimization
+5. Low Implementation Cost
+6. Low rendering Time
+7. Highly customizable
+8. Active community with extensive resources available
+
+UI/UX implementation:
+1. Gamified function (streak) for goal tracker
+2. Chart Download button
+3. Dark Modes
+4. 

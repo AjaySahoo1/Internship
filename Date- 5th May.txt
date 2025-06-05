@@ -1,0 +1,165 @@
+Below is a slide-by-slide breakdown that aligns each question with the relevant answers. You can adjust or add visuals as needed. Each slide contains clear bullet points and sections for easy presentation.
+
+---
+
+## **Slide 1: Title Slide**
+
+**Title:** Incentive Compensation Implementation  
+**Subtitle:** Key Processes, Challenges & Opportunities  
+**Presenter Name/Date:** [Your Name] – [Date]
+
+---
+
+## **Slide 2: Overview of Questions & Answers**
+
+- **Key Questions Explored:**  
+  1. Types of reports clients ask for  
+  2. Pain points in the current IC process  
+  3. Data needed for various IC reports  
+  4. Frequency of IC rules/plans changes  
+  5. Key metrics for evaluating a report  
+  6. Expected business outcomes from a report  
+  7. Standardization vs. customization acceptance
+
+- **Groups Impacted:**  
+  - **Home Office (HO):** Payout data, master table, insights and key highlights  
+  - **Client:** Goal setting, performance metrics, interactive dashboards  
+  - **Field Force:** Goal card, volume goals, actual performance data, and "what-if" calculators
+
+---
+
+## **Slide 3: Types of Reports Clients Ask For**
+
+- **Dynamic Tabular Reports:**  
+  - Mainly used by business teams for detailed data review
+
+- **User Interfaces & Dashboards (Power BI, React JS):**  
+  - **Dashboards, Goal Cards, & Scorecards:** Provide interactive performance visualizations  
+  - **What-If Calculators:** Offer payout simulations based on varying inputs  
+  - **HCP/HCO Reports:** Specific to sales crediting and client segmentation
+
+- **Salesforce & Custom Reports (SFDC/MBO):**  
+  - Tailored reports created using Salesforce or MBO tools
+
+- **Master Table (HO Only):**  
+  - Centralized payout and eligibility data not accessible to field teams
+
+---
+
+## **Slide 4: Key Pain Points in Current IC Process**
+
+- **Data Accuracy & Re-Runs:**  
+  - Frequent re-runs due to inaccurate data negatively impact efficiency
+
+- **Dependency & Bandwidth Issues:**  
+  - Reliance on multiple teams creates timing and resource constraints
+
+- **Standardization vs. Customization:**  
+  - Challenges in standardizing developed solutions while managing custom client requests  
+  - Communication challenge: Explaining to clients that “everything is customised”
+
+- **Golden/Global Image (GI):**  
+  - Potential to create a standardized “golden” framework that speeds up engagements for small/emerging pharma clients
+
+- **Team Alignment:**  
+  - Misalignment between Business and Tech teams affects collaboration and rollout
+
+---
+
+## **Slide 5: Essential Data for IC Reports**
+
+- **Core Data Inputs:**  
+  - **Goal-Related Data:** Targets, frequency (quarterly, monthly, annual, baseline, growth KPIs)  
+  - **Sales Data:** Sales figures, crediting specifics for HCP/HCO reports  
+  - **HR Data:** Eligibility and workforce information  
+  - **IC Plans:** Detailed plan rules, payout percentages, and calculations
+
+- **Detailed Calculation Examples:**  
+  - **Sales/Goals/Attainment (S/G)**  
+  - **Payout Percentage (PoT):** Used to calculate earnings (Earnings = PoT × IC Target)  
+  - **Payout Calculation:** Final payout = Earnings × Eligibility
+
+---
+
+## **Slide 6: Frequency of IC Rule/Plan Changes**
+
+- **Change Cycle:**  
+  - **Quarterly Major Changes:** Typically for major updates (Goal methodology, team size changes, business rule eligibility)  
+  - **Monthly Adjustments:** Minor changes and workflow updates (e.g., payroll workflow from Vicky → Sahil → Pooja)
+
+- **Triggers for Change:**  
+  - Shifts in performance expectations  
+  - Adjustments to team size or methodology  
+  - Evolving eligibility criteria or business rules
+
+---
+
+## **Slide 7: Evaluating Metrics for Reports**
+
+- **Key Evaluation Metrics:**  
+  - **User Interface (UI) Quality:** Must be intuitive and engaging  
+  - **Data Correctness:** Accuracy is essential for decision making  
+  - **Ease of Implementing Changes:** Flexibility to adapt quickly  
+  - **Loading Time & Performance:** Critical for user satisfaction and onboarding
+
+---
+
+## **Slide 8: Expected Business Outcomes**
+
+- **For the Field Force:**  
+  - **Interactivity & Engaging Experience:** Clear, non-monotonous reports (avoid dull DTR)  
+  - **Actionable Insights:** Detailed breakdown of performance, volume goals, and "what-if" scenarios
+
+- **For the Home Office (HO):**  
+  - **Insight-Driven Decision Making:** Key highlights and data-driven insights  
+  - **Comprehensive Dashboards:** Visuals to track budget utilization, national attainment, and product/role performance  
+  - **Output Validation & Budget Management:** Ensuring validations are in place for leadership review
+
+---
+
+## **Slide 9: Standardization and Customization Consideration**
+
+- **Client Perspective on Standardization:**  
+  - **Custom vs. Standard:** Initially, clients might expect customized solutions; however, a standardized “Golden Image” can provide faster turnarounds  
+  - **Value for Small/Emerging Pharma:** Standardization can be a game changer by expediting rollouts without sacrificing critical insights
+
+- **Balancing the Two:**  
+  - Clearly communicate benefits of standardization while allowing for necessary customization based on unique client needs
+
+---
+
+## **Slide 10: Merging Reporting Challenges**
+
+- **Timing Issues:**  
+  - Alignment and synchronization of data across different channels can lead to delays
+
+- **Performance Bottlenecks:**  
+  - Increased loading times, especially when merging complex reports
+
+- **Strategies for Improvement:**  
+  - Enhance data pipelines  
+  - Optimize dashboard loading times and back-end performance
+
+---
+
+## **Slide 11: Summary & Next Steps**
+
+- **Recap of Key Points:**  
+  - Types of reports required and their specific data needs  
+  - Identified pain points and opportunities to standardize processes  
+  - Metrics and outcomes essential for both field and home office teams  
+  - Challenges in merging reporting effectively
+
+- **Next Steps:**  
+  - Address data accuracy and dependency issues  
+  - Explore a balanced approach to standardization  
+  - Improve UI, performance, and responsiveness of reports  
+  - Strengthen collaboration between business and tech teams
+
+- **Call to Action:**  
+  - Engage with stakeholders to refine the processes  
+  - Initiate pilot projects to test standardized solutions
+
+---
+
+This slide content should provide a comprehensive overview while allowing you to address each essential question with clarity. Feel free to add visuals, charts, or specific examples from your business context to further illustrate the points. Would you be interested in exploring some design ideas or perhaps integrating sample dashboards into another slide?

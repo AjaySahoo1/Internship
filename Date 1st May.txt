@@ -1,0 +1,76 @@
+Affiliation Management Product
+Medicines (not otc) tested in hospital
+Which doct is sitting in doctor
+rep- which hospital- which doctor : Affiliation
+SalesIQ Tool for Affiliation Mgmt
+From Initial Set of requirements
+Prodman Spoc: Ramandeep
+
+Homeoffice- Client-- Field force
+1st activity: Goal setting (field)- gaze their performance (volume goals)
+Goal card- frequency- quarterly, monthly, annual, baseline, goals, growth(KPIs)
+Provide them the option for actual
+What if calculator- payout based on 
+Sales Crediting- HCP/HCO Reports
+
+KPIs: National Attainment
+
+Types of report:
+Dynamic Tabular Report (Business teams)
+UI- Power BI, React JS ---- Dashboards, Goal Card, Score card, What-If calculator, HCP-HCO reports
+SFDC- Salesforce, MBO (Custom Reports)
+
+Master table- only for HO (not for field)- Pay out
+Scorecard- Actual Performance
+Eligibility
+
+Payroll- Workflow oriented is included- Vicky--> Sahil--> Pooja 
+More changes are required (monthly basis)
+
+Pain points:
+1. re-runs (data is inaccurate),
+2. dependency oriented (different bandwidth)
+3. Standardize what is developed
+4. Tell clients that everything is customized- 
+5. Golden/(Global??) Image (GI)- for standardization- to turn around clients quicker for smaller engagements (small emerging pharma companies)
+6. Business team and tech-team are not in same level (collaboration between)
+
+Data:
+1. Goal relate data
+2. Sales Data
+3. HR data (eligibility)
+4. IC plans
+
+
+Sales
+Goals
+Attainment (S/G)
+Payout Percentage (PoT) (A)
+IC target (B)
+Earnings (C= A*B)
+Payout, D= C* Eligibility
+
+IC Plan Changes- Quarterly Majorly--- Changes if let's say- Goal Methodology, Team size change, Business Rule Eligibility, 
+
+Evaluating Metrics:
+1. UI
+2. Data correctness
+3. Ease of implementing/ doing change
+4. Loading time
+5. Performance
+
+Expected outcomes:
+1. Field- Interactive, not monotonous, and provide details which is more appealing (So, no DTR) + Actionable Insights
+2. Home Office (HO)- Data and Insights/ Key Highlights
+
+
+KPIs:
+Budget Utilization
+National Attainment
+
+But more important is insights
+Breakdown- How teams/roles are performing, Product performance--- Dashboard - for HO or leadership | Output validation/budget management report- 
+
+Issue of merging reporting:
+1. Timing Issue
+2. Performance (Loading Time)

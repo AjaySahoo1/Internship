@@ -1,0 +1,79 @@
+BI (Business Intelligence) Testing (Session)- Key to improving quality of BI reports, helps in preventing making wrong strategic decision
+Complexity:
+1. UI part/ Aesthetics Part
+2. Data related (Sales data shown wrong/ charts are clumsy)
+
+UI/Aesthetics:
+1. Color coding (Green- Growth Up, Red- Down) of products in Trend, Bar Charts, Growth Metrics
+2. Color Coding Consistency (for Brands or products across dashboards)
+3. Consistency across dashboard to handle null, blank or zero values)
+4. Branding and Welcome message
+5. Dashboard Headers and Footers consistency
+6. Dashboard refresh dates, data weekend dates, calendar, and help icon
+7. Font Size and Font Color consistency across dashboard
+8. Label Orientations, Legends, and Information
+
+Data Testing:
+1. Data Sync across dashboard
+2. Checking outliers- check spikes & drops (Natural issue or data related issue)
+3. Consistency across dashboard for monthly and weekly trends
+4. Data accuracy checks
+5. Data Refresh & Update Mechanism
+6. Data Aggregation and Calculation Logic
+7. Data Filtering and sorting
+8. Error handling and messaging
+9. Data security and permissions
+10. Drill down and drill through accuracy
+
+Functionality Testing:
+1. Check Landing Page Availability
+2. Verify brand access
+3. Pre-caching Functionality (MicroStrategy iPAD specific)
+4. Navigation of each dashboard (Back Navigation issue address)
+5. Default selectors on dashboard (e.g. time period)
+6. Ride along scenarios (Higher geography user impersonating the same geography of rep user)
+7. Dashboard Changes wrt Selection of Brand, Time Period or Geography
+8. Exports and Custom list Addition, Deletion and Update
+9. Search Behavior
+10. User Persona Testing (Different User Roles and Hierarchy)
+11. Drill-down Data Functionality
+
+Usability Testing:
+1. Dashboard Loading Speed
+2. Help/FAQ Accessibility
+3. Information Overload vs UnderLoad
+4. Ease of Navigation
+5. Clarity of Labels and Titles
+6. Visual Appeal and Consistency
+7. Error Feedback and Messaging
+8. Responsive and Mobile Compatibility
+9. Use Customization Options
+10. Consistency in Interactive Elements
+
+Performance Testing
+
+Common Issues in Dashboard-
+1. % reach going above 100%
+
+Test Case Prioritization (For Quality Engineering Teams)- Managing limited resources like Time and Computational Power- To focus on the most impactful tests, helping to maximize test coverage while reducing 
+1. Risk Based Prioritization
+2. Coverage Based Prioritization
+3. Requirements Based Prioritization
+4. History Based
+5. Change Request Based
+6. Customer Focused Areas (Business Impact and User Priority)
+7. Re-Prioritization of Test Cases
+8. Best Practice: Post-Code Change Testing
+
+Test Data Selection:
+
+
+Call Plan KT Session:
+
+Power BI session:
+Scorecard (Final payment given to the rep)- weekly based report
+Templates are set, can't be personalized
+No Insights available
+High cost
+Slow loading Time (for large data set)
+No in build filtering option (querry to be added for each filtering operation)

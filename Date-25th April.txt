@@ -1,0 +1,19 @@
+Data Management- Loading and quality check-
+Data Ingestion
+Data Quality Check (Some of the data won't show)
+Frontend- Data management
+Backend- DataMax
+Profiling- Request to DataMax
+Once data is ingest, it is available for all modules
+
+Data Object- To bring in data from different systems
+Adaptor- Column structure, data type
+
+Data Processing Module:
+Application:
+Allows u to do various types of transformation of data (merge or row lapse or join) - can be used as an input
+Rather than doing those operations on python coding- can be used on SalesIQ platform
+Any query that is sequel level can be used
+can publish the data for segmentation and targeting module
+
+COE Team- Pooja's team- 
